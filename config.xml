@@ -101,7 +101,7 @@
         <param name="URL_SCHEME" value="learnmoodle" />
     </gap:plugin>
    
-    <gap:plugin name="com.ionic.keyboard" version="1.0.3" />
+     <gap:plugin name="ionic-plugin-keyboard" source="npm" />
 
     <access origin="*" />
 
