@@ -88,7 +88,6 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
     <gap:plugin name="cordova-universal-clipboard" source="npm" />
     <gap:plugin name="nl.kingsquare.cordova.background-audio" source="npm" />
-    <gap:plugin name="com.phonegap.plugin.statusbar"  source="npm"/>
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.7.0">
         <param name="SENDER_ID" value="learn-moodle-1159" />
     </gap:plugin>
