@@ -88,16 +88,21 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
     <gap:plugin name="cordova-universal-clipboard" source="npm" />
     <gap:plugin name="nl.kingsquare.cordova.background-audio" source="npm" />
+         
+    <gap:plugin name="ionic-plugin-keyboard" source="npm" />
+    <gap:plugin name="cordova-plugin-zip" source="npm" />
+    <gap:plugin name="cordova-plugin-local-notifications-mm" source="npm" />
+    <gap:plugin name="net.tunts.webintent" spec="https://github.com/Tunts/WebIntent.git" source="git" />
+    <gap:plugin name="ch.ti8m.documenthandler" spec="https://github.com/ti8m/DocumentHandler.git" source="git" />
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.7.0">
         <param name="SENDER_ID" value="learn-moodle-1159" />
     </gap:plugin>
-    <gap:plugin name="net.tunts.webintent" source="npm"/>
+
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
         <param name="URL_SCHEME" value="learnmoodle" />
     </gap:plugin>
    
-     <gap:plugin name="ionic-plugin-keyboard" source="npm" />
-
+   
     <access origin="*" />
 
 </widget>
