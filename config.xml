@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.moodle.moodlemobile"
-        versionCode = "383"
-        version   = "1.9">
+        versionCode = "2017"
+        version   = "3.0.3">
     <name>Moodle Mobile</name>
 
     <description>
